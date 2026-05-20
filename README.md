@@ -1,3 +1,5 @@
+> **Founder-attribution mirror.** Canonical source: [Suede-AI/suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets). Updates land there first.
+
 # Suede Brand Assets
 
 Public brand and listing packet for Suede Labs, Johnny Suede (`SUEDE`), and the Suede programmable IP ecosystem.
