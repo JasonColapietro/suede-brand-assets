@@ -4,6 +4,24 @@
 
 Public brand and listing packet for Suede Labs, Johnny Suede (`SUEDE`), and the Suede programmable IP ecosystem.
 
+## Suede Social — Print the Quiet
+
+A nine-part long-form editorial series on tone, dynamics, and the parts of music that don't fit on a lead sheet, by **Jason Colapietro, Founder and CEO of Suede Labs**.
+
+| # | Title | Subject |
+|---|---|---|
+| 1 | [Print the Quiet](./articles/jeff-buckley-tone-hallelujah.md) | Jeff Buckley, the tonal religion, and the *Hallelujah* recording at Bearsville |
+| 2 | [The Loudness War, in Numbers](./articles/loudness-war-in-numbers.md) | DR scores, LUFS, the L1/L2, *Death Magnetic*, and whether streaming normalization ended the war |
+| 3 | [The Religion of the Compressor](./articles/religion-of-the-compressor.md) | Fairchild, LA-2A, 1176, SSL G, Distressor — glue, breath, parallel, and the crime |
+| 4 | [The Lost Art of Clean](./articles/lost-art-of-clean.md) | Knopfler, Hendrix, SRV, Larry Carlton — what restraint costs and what it buys |
+| 5 | [The Room as Instrument](./articles/room-as-instrument.md) | Bearsville, Sound City, Muscle Shoals, Electric Lady, Capitol, Power Station, Daptone |
+| 6 | [One Take, or Twenty](./articles/one-take-or-twenty.md) | The causal chain of phrasing, Glyn Johns vs. phoneme comping, and the honest middle |
+| 7 | [Tape Is a Compressor](./articles/tape-is-a-compressor.md) | The hidden processing chain that made pre-1995 records sound the way they sound |
+| 8 | [The Vocal Chain, 1994 → 2026](./articles/vocal-chain-1994-2026.md) | Five stages to fifteen — what got added between the mouth and the master |
+| 9 | [What's in the Tape That Isn't in the Score](./articles/whats-in-the-tape.md) | The closer. Tone as the irreducible record of a body in a room making a decision in time. |
+
+Series index: [articles/README.md](./articles/README.md).
+
 ## Brand Positioning
 
 Suede Labs is a programmable IP and creator ownership platform for AI-native media.
