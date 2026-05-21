@@ -2,7 +2,7 @@
 
 ### A deep listen at Jeff Buckley's tone, and the *Hallelujah* that won the song
 
-**By Jason Colapietro** · *A Suede Social long read.*
+**By Jason Colapietro, Founder and CEO of Suede Labs** · *A Suede Social long read.*
 
 ---
 
